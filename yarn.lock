@@ -41,11 +41,6 @@ debug@^4.1.1, debug@^4.3.5:
   dependencies:
     ms "2.1.2"
 
-husky@^9.1.4:
-  version "9.1.4"
-  resolved "https://registry.npmjs.org/husky/-/husky-9.1.4.tgz"
-  integrity sha512-bho94YyReb4JV7LYWRWxZ/xr6TtOTt8cMfmQ39MQYJ7f/YE268s3GdghGwi+y4zAeqewE5zYLvuhV0M0ijsDEA==
-
 ms@2.1.2:
   version "2.1.2"
   resolved "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz"
