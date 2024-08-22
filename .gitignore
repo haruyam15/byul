@@ -10,3 +10,5 @@ dist
 
 # Ignore build output
 build
+
+.DS_Store
